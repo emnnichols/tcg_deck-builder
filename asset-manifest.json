@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/tcg_deck-builder/static/css/main.f855e6bc.css",
+    "main.js": "/tcg_deck-builder/static/js/main.4f70962b.js",
+    "static/js/453.ba85c9a2.chunk.js": "/tcg_deck-builder/static/js/453.ba85c9a2.chunk.js",
+    "service-worker.js": "/tcg_deck-builder/service-worker.js",
+    "static/media/logo.svg": "/tcg_deck-builder/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/tcg_deck-builder/index.html",
+    "main.f855e6bc.css.map": "/tcg_deck-builder/static/css/main.f855e6bc.css.map",
+    "main.4f70962b.js.map": "/tcg_deck-builder/static/js/main.4f70962b.js.map",
+    "453.ba85c9a2.chunk.js.map": "/tcg_deck-builder/static/js/453.ba85c9a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.4f70962b.js"
+  ]
+}
